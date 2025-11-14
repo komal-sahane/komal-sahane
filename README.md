@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Komal Sahane!  
+ there, I'm Komal Sahane!  
 A passionate **Full Stack Developer** who loves building impactful digital experiences and learning cutting-edge technologies.  
 I enjoy solving real-world problems through clean, scalable, and creative code 💡  
 
